@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いつか貴方にまで届くよう。",
+  "base_artist": "芥田レンリ",
+  "createdAt": "2025-12-12T18:25:24.002397Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつか貴方にまで届くよう。",
+      "artist": "芥田レンリ",
+      "has_synced": false,
+      "path": "select/pl_01_いつか貴方にまで届くよう。_芥田レンリ.txt"
+    }
+  ]
+}
